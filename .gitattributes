@@ -1,0 +1,4 @@
+*.fbx filter=lfs diff=lfs merge=lfs -text
+
+Build/Build.data.br filter=lfs diff=lfs merge=lfs -text
+Build/Build.data filter=lfs diff=lfs merge=lfs -text
